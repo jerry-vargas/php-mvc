@@ -1,6 +1,6 @@
 # PHP MVC Tutorial Repo
 
-This repository tracks my progress while following Zura's PHP MVC tutorial series on YouTube. The goal is not to repackage his work as my own. The point of this repo is to keep the project history easier to study, step through, and revisit when working through the series.
+This repository tracks my progress while following Zura's PHP MVC tutorial series on YouTube. The goal is not to repackage his work as my own. 
 
 A common problem with long-form tutorial content is that you can get stuck halfway through a lesson and the only reference available is the finished codebase. This repo is my way of solving that problem for myself by keeping the work separated into branches that map back to the tutorial progression.
 
